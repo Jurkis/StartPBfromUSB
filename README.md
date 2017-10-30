@@ -1,29 +1,18 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+## Aktyvuoti Personal Backup iš USB rakto ##
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Ši programėlė skirta aktyvuoti [Personal Backup](http://personal-backup.rathlev-home.de/index-e.html) iš USB rakto taip, kad įsikeltų į programą visi anksčiau išsaugoti nustatymai.
 
-### How do I get set up? ###
+## Išankstinės sąlygos
+1. Portabilumui naudojama [Portable Apps](https://portableapps.com) platforma. Ji ir turi būti sudiegta į UAB raktą
+2. Naudojama Personal Backup portable versija [ZIP faile](http://personal-backup.rathlev-home.de/persback-e.html#download5).
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Kaip paruošti Personal Backup programą? ##
 
-### Contribution guidelines ###
+* Išarchyvuotą Personal Backup programą padėti į USB rakto PortableApp direktoriją, pvz., D:\PortableApps\PersonalBackup. 
+* Susikonfigūruoti darbų failus, susikurti *.ini (pvz., pb.ini, susikuria automatiškai, jame saugomi programo sustatymai) failą.
+* Patalpinti pb.ini failą programos direktorijoje.
+* Susikurti direktoriją *darbai* (arba kitu pavadinimu) programos direktorijoje, pvz., D:\PortableApps\PersonalBackup\darbai.
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact

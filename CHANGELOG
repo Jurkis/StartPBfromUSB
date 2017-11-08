@@ -1,1 +1,4 @@
-
+2017-11-08 v. 1.0.0.2
+N - parametrai /ini, /taskdir ir /logdir aprašyti santykinėmis reikšmėmis;
+N - CMD failas sukovertuotas į PersonalBackupStart.exe su Bat To Exe Converter;
+N - pridėtas CHANGELOG failas.

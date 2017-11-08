@@ -12,7 +12,7 @@
 ## Kaip paruošti Personal Backup programą? ##
 
 * Išarchyvuotą Personal Backup programą padėti į USB rakto PortableApp direktoriją, pvz., D:\PortableApps\PersonalBackup. 
-* Susikonfigūruoti darbų failus, susikurti *.ini (pvz., pb.ini, susikuria automatiškai, jame saugomi programo sustatymai) failą.
+* Susikonfigūruoti darbų failus, susikurti *.ini (pvz., pb.ini, susikuria automatiškai, jame saugomi programos nustatymai) failą.
 * Patalpinti pb.ini failą programos direktorijoje.
 * Susikurti direktoriją *darbai* (arba kitu pavadinimu) programos direktorijoje, pvz., D:\PortableApps\PersonalBackup\darbai.
 

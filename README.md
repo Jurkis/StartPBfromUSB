@@ -14,7 +14,7 @@
 * Išarchyvuotą Personal Backup programą įkelti į USB rakto PortableApp direktoriją, pvz., D:\PortableApps\PersonalBackup. 
 * Susikonfigūruoti užduočių (tasks) failus, susikurti *.ini (pvz., PersonalBackup.ini, susikuria automatiškai, jame saugomi programos nustatymai) failą.
 * Patalpinti PersonalBackup.ini failą programos direktorijoje.
-* Susikurti direktoriją *tasks* (arba kitu pavadinimu) programos direktorijoje, pvz., D:\PortableApps\PersonalBackup\tasks.
+* Susikurti direktoriją *tasks* (arba kitu pavadinimu) programos direktorijoje, pvz., D:\PortableApps\PersonalBackup\tasks. Patalpinti užduočių failus į šią direktoriją.
 
 ## O ką daryti su pačia programėle? ##
 

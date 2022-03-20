@@ -1,3 +1,5 @@
+2022-03-30 1.2.0.2
+N - parametrai /ini, /taskdir ir /logdir aprašyti absoliučiomis reikšmėmis, kadangi santykinė nustojo veikti.
 2017-11-08 v. 1.0.0.2
 N - parametrai /ini, /taskdir ir /logdir aprašyti santykinėmis reikšmėmis;
 N - CMD failas sukovertuotas į PersonalBackupStart.exe su Bat To Exe Converter;
